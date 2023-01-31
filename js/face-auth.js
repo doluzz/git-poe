@@ -1,1 +1,3 @@
-function auth(){}
+function auth(){
+    console.log("osef")
+}
